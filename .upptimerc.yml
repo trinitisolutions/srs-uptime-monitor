@@ -4,9 +4,9 @@ repo: srs-uptime-monitor # The name of this repository
 
 sites:
   - name: Dev Dashboard
-    url: https://dashboard.srs.appset.nl
+    url: https://dashboard.srs.appset.nl/status
   - name: Dev Admin
-    url: https://admin.srs.appset.nl
+    url: https://admin.srs.appset.nl/status
   - name: Robot service
     url: https://srs.appset.nl/api/robots
     expectedStatusCodes:
