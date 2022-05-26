@@ -7,10 +7,22 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Dev Dashboard
+    url: https://dashboard.srs.appset.nl
+  - name: Dev Admin
+    url: https://admin.srs.appset.nl
+  - name: Robot service
+    url: https://srs.appset.nl/api/robots
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+  - name: Management service
+    url: https://srs.appset.nl/api/customers
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
