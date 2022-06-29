@@ -7,13 +7,13 @@ sites:
     url: https://dashboard.srs.appset.nl/status
   - name: Dev Admin
     url: https://admin.srs.appset.nl/status
-  - name: Robot service
+  - name: Dev Robot service
     url: https://srs.appset.nl/api/robots
     expectedStatusCodes:
       - 200
       - 201
       - 401
-  - name: Management service
+  - name: Dev Management service
     url: https://srs.appset.nl/api/customers
     expectedStatusCodes:
       - 200
