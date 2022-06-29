@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/srs.appset.nl",
     "slug": "dev-robot-service",
     "status": "down",
-    "uptime": "39.42%",
-    "uptimeDay": "39.42%",
-    "uptimeWeek": "39.42%",
-    "uptimeMonth": "39.42%",
-    "uptimeYear": "39.42%",
+    "uptime": "3.50%",
+    "uptimeDay": "3.50%",
+    "uptimeWeek": "3.50%",
+    "uptimeMonth": "3.50%",
+    "uptimeYear": "3.50%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-29": 1
+      "2022-06-29": 14
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://srs.appset.nl/api/customers",
     "icon": "https://favicons.githubusercontent.com/srs.appset.nl",
     "slug": "dev-management-service",
-    "status": "down",
-    "uptime": "69.14%",
-    "uptimeDay": "69.14%",
-    "uptimeWeek": "69.14%",
-    "uptimeMonth": "69.14%",
-    "uptimeYear": "69.14%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.02%",
+    "uptimeDay": "4.02%",
+    "uptimeWeek": "4.02%",
+    "uptimeMonth": "4.02%",
+    "uptimeYear": "4.02%",
+    "time": 529,
+    "timeDay": 529,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 13
     }
   }
 ]
