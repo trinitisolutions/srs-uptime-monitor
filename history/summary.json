@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1492,
-    "timeDay": 912,
-    "timeWeek": 1398,
-    "timeMonth": 1514,
-    "timeYear": 1492,
+    "time": 1490,
+    "timeDay": 882,
+    "timeWeek": 1380,
+    "timeMonth": 1507,
+    "timeYear": 1490,
     "dailyMinutesDown": {
       "2022-05-26": 43
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1107,
-    "timeDay": 219,
-    "timeWeek": 1002,
-    "timeMonth": 1111,
-    "timeYear": 1107,
+    "time": 1104,
+    "timeDay": 608,
+    "timeWeek": 982,
+    "timeMonth": 1109,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2022-05-26": 30
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/srs.appset.nl",
     "slug": "dev-robot-service",
     "status": "up",
-    "uptime": "0.55%",
-    "uptimeDay": "0.55%",
-    "uptimeWeek": "0.55%",
-    "uptimeMonth": "0.55%",
-    "uptimeYear": "0.55%",
-    "time": 447,
-    "timeDay": 447,
-    "timeWeek": 447,
-    "timeMonth": 447,
-    "timeYear": 447,
+    "uptime": "89.69%",
+    "uptimeDay": "89.69%",
+    "uptimeWeek": "89.69%",
+    "uptimeMonth": "89.69%",
+    "uptimeYear": "89.69%",
+    "time": 375,
+    "timeDay": 375,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2022-06-29": 106
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 529,
-    "timeWeek": 529,
-    "timeMonth": 529,
-    "timeYear": 529,
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   }
 ]
