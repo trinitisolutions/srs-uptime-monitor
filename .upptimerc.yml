@@ -3,6 +3,22 @@ owner: trinitisolutions # Your GitHub organization or username, where this repos
 repo: srs-uptime-monitor # The name of this repository
 
 sites:
+  - name: Dashboard
+    url: https://robot-maatje.com/status
+  - name: Admin
+    url: https://admin.robot-maatje.com/status
+  - name: Robot service
+    url: https://srs.triniti.nl/api/robots
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+  - name: Management service
+    url: https://srs.triniti.nl/api/customers
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
   - name: Dev Dashboard
     url: https://dashboard.srs.appset.nl/status
   - name: Dev Admin
