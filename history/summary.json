@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/robot-maatje.com",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1552,
     "timeDay": 1989,
     "timeWeek": 1594,
     "timeMonth": 1531,
     "timeYear": 1552,
-    "dailyMinutesDown": {
-      "2022-08-11": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin",
