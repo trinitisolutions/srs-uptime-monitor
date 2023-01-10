@@ -4,9 +4,9 @@
     "url": "https://robot-maatje.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/robot-maatje.com.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 3163,
     "timeMonth": 2779,
     "timeYear": 2056,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "Admin",
     "url": "https://admin.robot-maatje.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/admin.robot-maatje.com.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +36,7 @@
     "timeMonth": 1793,
     "timeYear": 1466,
     "dailyMinutesDown": {
+      "2023-01-10": 0,
       "2022-08-26": 21
     }
   },
