@@ -1,7 +1,7 @@
 url: https://srs.triniti.nl/api/robots
-status: down
-code: 503
-responseTime: 8548
-lastUpdated: 2023-01-11T13:32:56.558Z
+status: up
+code: 401
+responseTime: 405
+lastUpdated: 2023-01-11T13:55:20.277Z
 startTime: Fri Jul 01 2022 13:34:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
