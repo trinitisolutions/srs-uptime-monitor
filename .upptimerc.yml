@@ -8,13 +8,13 @@ sites:
   - name: Admin
     url: https://admin.robot-maatje.com/status
   - name: Robot service
-    url: https://srs.triniti.nl/api/robots
+    url: https://srs.trinitisolutions.nl/api/robots
     expectedStatusCodes:
       - 200
       - 201
       - 401
   - name: Management service
-    url: https://srs.triniti.nl/api/customers
+    url: https://srs.trinitisolutions.nl/api/customers
     expectedStatusCodes:
       - 200
       - 201
