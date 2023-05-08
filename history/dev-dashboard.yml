@@ -1,7 +1,7 @@
 url: https://dashboard.srs.appset.nl/status
-status: up
-code: 200
-responseTime: 4529
-lastUpdated: 2023-05-08T11:06:53.179Z
+status: down
+code: 500
+responseTime: 432
+lastUpdated: 2023-05-08T11:29:30.319Z
 startTime: Thu May 26 2022 13:13:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
