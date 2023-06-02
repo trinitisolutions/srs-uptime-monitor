@@ -6,9 +6,9 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2573,
     "timeDay": 3211,
@@ -16,7 +16,6 @@
     "timeMonth": 3148,
     "timeYear": 2573,
     "dailyMinutesDown": {
-      "2023-06-01": 10,
       "2023-01-10": 36
     }
   },
@@ -27,9 +26,9 @@
     "slug": "admin",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1665,
     "timeDay": 2715,
@@ -37,7 +36,6 @@
     "timeMonth": 2047,
     "timeYear": 1665,
     "dailyMinutesDown": {
-      "2023-06-01": 10,
       "2023-01-10": 36,
       "2022-08-26": 21
     }
@@ -95,17 +93,16 @@
     "slug": "dev-dashboard",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.82%",
     "time": 2493,
     "timeDay": 3851,
     "timeWeek": 3073,
     "timeMonth": 3560,
     "timeYear": 2517,
     "dailyMinutesDown": {
-      "2023-06-01": 10,
       "2023-02-17": 133,
       "2022-12-30": 765,
       "2022-08-26": 20,
@@ -119,9 +116,9 @@
     "slug": "dev-admin",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1424,
     "timeDay": 3871,
@@ -129,7 +126,6 @@
     "timeMonth": 1828,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2023-06-01": 10,
       "2022-12-30": 765,
       "2022-08-26": 20
     }
