@@ -1,7 +1,7 @@
 url: https://srs.trinitisolutions.nl/api/customers
-status: down
-code: 500
-responseTime: 173
-lastUpdated: 2023-09-04T23:57:08.455Z
+status: up
+code: 401
+responseTime: 151
+lastUpdated: 2023-09-05T01:07:21.355Z
 startTime: 2022-07-01T13:34:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
