@@ -136,9 +136,9 @@
     "url": "https://srs.appset.nl/api/robots",
     "icon": "https://icons.duckduckgo.com/ip3/srs.appset.nl.ico",
     "slug": "dev-robot-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -148,6 +148,7 @@
     "timeMonth": 399,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2023-10-13": 0,
       "2022-12-30": 765,
       "2022-10-28": 36
     }
@@ -157,9 +158,9 @@
     "url": "https://srs.appset.nl/api/customers",
     "icon": "https://icons.duckduckgo.com/ip3/srs.appset.nl.ico",
     "slug": "dev-management-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -169,6 +170,7 @@
     "timeMonth": 126,
     "timeYear": 129,
     "dailyMinutesDown": {
+      "2023-10-13": 0,
       "2023-06-03": 16,
       "2022-12-30": 765,
       "2022-12-15": 19
