@@ -1,7 +1,7 @@
 url: https://admin.robot-maatje.com/status
-status: down
-code: 500
-responseTime: 260
-lastUpdated: 2024-01-17T21:54:39.794Z
+status: up
+code: 200
+responseTime: 1570
+lastUpdated: 2024-01-17T22:12:10.130Z
 startTime: 2022-07-01T13:34:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
