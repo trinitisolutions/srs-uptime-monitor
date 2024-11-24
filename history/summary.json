@@ -48,9 +48,9 @@
     "slug": "robot-service",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 400,
     "timeDay": 423,
@@ -58,7 +58,6 @@
     "timeMonth": 369,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2024-11-23": 9,
       "2024-10-26": 17,
       "2024-09-27": 24
     }
@@ -70,9 +69,9 @@
     "slug": "management-service",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 1855,
@@ -80,7 +79,6 @@
     "timeMonth": 290,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-11-23": 8,
       "2024-10-26": 17,
       "2024-09-27": 24
     }
@@ -132,9 +130,9 @@
     "slug": "dev-robot-service",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 387,
     "timeDay": 723,
@@ -142,7 +140,6 @@
     "timeMonth": 384,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-11-23": 8,
       "2024-10-26": 16,
       "2024-10-12": 16,
       "2024-09-28": 17,
@@ -157,9 +154,9 @@
     "slug": "dev-management-service",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 145,
     "timeDay": 1255,
@@ -167,7 +164,6 @@
     "timeMonth": 309,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-11-23": 8,
       "2024-10-12": 16,
       "2024-09-27": 24
     }
