@@ -4,36 +4,40 @@
     "url": "https://robot-maatje.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/robot-maatje.com.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1563,
+    "time": 1560,
     "timeDay": 263,
     "timeWeek": 288,
     "timeMonth": 299,
     "timeYear": 1224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-22": 0
+    }
   },
   {
     "name": "Admin",
     "url": "https://admin.robot-maatje.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/admin.robot-maatje.com.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
+    "time": 1236,
     "timeDay": 190,
     "timeWeek": 292,
     "timeMonth": 292,
     "timeYear": 1107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-22": 0
+    }
   },
   {
     "name": "Robot service",
@@ -89,36 +93,40 @@
     "url": "https://dashboard.srs.appset.nl/status",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.srs.appset.nl.ico",
     "slug": "dev-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2472,
+    "time": 2471,
     "timeDay": 285,
     "timeWeek": 3084,
     "timeMonth": 2864,
     "timeYear": 2601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-22": 0
+    }
   },
   {
     "name": "Dev Admin",
     "url": "https://admin.srs.appset.nl/status",
     "icon": "https://icons.duckduckgo.com/ip3/admin.srs.appset.nl.ico",
     "slug": "dev-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1553,
+    "time": 1556,
     "timeDay": 350,
     "timeWeek": 1462,
     "timeMonth": 1432,
     "timeYear": 1607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-22": 0
+    }
   },
   {
     "name": "Dev Robot service",
@@ -126,7 +134,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srs.appset.nl.ico",
     "slug": "dev-robot-service",
     "status": "up",
-    "uptime": "93.42%",
+    "uptime": "93.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
@@ -236,7 +244,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srs.appset.nl.ico",
     "slug": "dev-management-service",
     "status": "up",
-    "uptime": "93.45%",
+    "uptime": "93.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
