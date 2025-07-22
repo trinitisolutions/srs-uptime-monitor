@@ -4,19 +4,19 @@
     "url": "https://robot-maatje.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/robot-maatje.com.ico",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1560,
-    "timeDay": 263,
-    "timeWeek": 288,
+    "time": 1559,
+    "timeDay": 279,
+    "timeWeek": 289,
     "timeMonth": 299,
-    "timeYear": 1224,
+    "timeYear": 1222,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://admin.robot-maatje.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/admin.robot-maatje.com.ico",
     "slug": "admin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1236,
-    "timeDay": 190,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 1107,
+    "time": 1233,
+    "timeDay": 276,
+    "timeWeek": 301,
+    "timeMonth": 295,
+    "timeYear": 1105,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 18
     }
   },
   {
@@ -93,19 +93,19 @@
     "url": "https://dashboard.srs.appset.nl/status",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.srs.appset.nl.ico",
     "slug": "dev-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2471,
-    "timeDay": 285,
-    "timeWeek": 3084,
-    "timeMonth": 2864,
-    "timeYear": 2601,
+    "time": 2472,
+    "timeDay": 1986,
+    "timeWeek": 3159,
+    "timeMonth": 2890,
+    "timeYear": 2604,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 18
     }
   },
   {
@@ -113,19 +113,19 @@
     "url": "https://admin.srs.appset.nl/status",
     "icon": "https://icons.duckduckgo.com/ip3/admin.srs.appset.nl.ico",
     "slug": "dev-admin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1556,
-    "timeDay": 350,
-    "timeWeek": 1462,
-    "timeMonth": 1432,
+    "timeDay": 1067,
+    "timeWeek": 1503,
+    "timeMonth": 1443,
     "timeYear": 1607,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 18
     }
   },
   {
