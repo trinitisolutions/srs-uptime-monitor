@@ -1,7 +1,7 @@
 url: https://srs.appset.nl/api/customers
-status: up
-code: 401
-responseTime: 177
-lastUpdated: 2025-09-12T23:14:02.242Z
+status: down
+code: 503
+responseTime: 96
+lastUpdated: 2025-09-13T22:29:55.385Z
 startTime: 2022-06-29T08:53:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
