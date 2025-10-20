@@ -1,7 +1,7 @@
 url: https://admin.srs.appset.nl/status
-status: down
-code: 500
-responseTime: 3480
-lastUpdated: 2025-10-20T07:18:02.316Z
+status: up
+code: 200
+responseTime: 512
+lastUpdated: 2025-10-20T07:32:56.231Z
 startTime: 2022-05-26T13:13:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
