@@ -1,7 +1,7 @@
 url: https://srs.appset.nl/api/robots
-status: up
-code: 401
-responseTime: 625
-lastUpdated: 2025-12-12T23:17:44.532Z
+status: down
+code: 503
+responseTime: 487
+lastUpdated: 2025-12-13T22:39:27.490Z
 startTime: 2022-06-29T08:52:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
