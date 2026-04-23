@@ -1,7 +1,7 @@
-url: https://admin.srs.appset.nl/status
+url: https://admin.dev.robot-maatje.com/status
 status: up
 code: 200
-responseTime: 2080
-lastUpdated: 2026-04-22T23:43:13.669Z
+responseTime: 231
+lastUpdated: 2026-04-23T06:10:12.364Z
 startTime: 2022-05-26T13:13:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
