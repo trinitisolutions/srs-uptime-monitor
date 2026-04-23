@@ -1,7 +1,7 @@
-url: https://srs.trinitisolutions.nl/api/robots
+url: https://api.robot-maatje.com/api/robots
 status: up
 code: 401
-responseTime: 296
-lastUpdated: 2026-04-22T23:43:08.081Z
+responseTime: 403
+lastUpdated: 2026-04-23T06:10:11.214Z
 startTime: 2022-07-01T13:34:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
