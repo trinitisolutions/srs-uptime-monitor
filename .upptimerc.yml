@@ -19,22 +19,22 @@ sites:
       - 200
       - 201
       - 401
-  - name: Dev Dashboard
-    url: https://dev.robot-maatje.com/status
-  - name: Dev Admin
-    url: https://admin.dev.robot-maatje.com/status
-  - name: Dev Robot service
-    url: https://api.dev.robot-maatje.com/api/robots
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 401
-  - name: Dev Management service
-    url: https://api.dev.robot-maatje.com/api/customers
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 401
+  # - name: Dev Dashboard
+  #   url: https://dev.robot-maatje.com/status
+  # - name: Dev Admin
+  #   url: https://admin.dev.robot-maatje.com/status
+  # - name: Dev Robot service
+  #   url: https://api.dev.robot-maatje.com/api/robots
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 201
+  #     - 401
+  # - name: Dev Management service
+  #   url: https://api.dev.robot-maatje.com/api/customers
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 201
+  #     - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
