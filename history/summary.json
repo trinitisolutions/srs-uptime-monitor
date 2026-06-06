@@ -64,18 +64,20 @@
     "url": "https://api.robot-maatje.com/api/robots",
     "icon": "https://icons.duckduckgo.com/ip3/api.robot-maatje.com.ico",
     "slug": "robot-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
-    "timeDay": 298,
-    "timeWeek": 343,
-    "timeMonth": 392,
+    "timeDay": 374,
+    "timeWeek": 356,
+    "timeMonth": 394,
     "timeYear": 415,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 0
+    }
   },
   {
     "name": "Management service",
